@@ -11,6 +11,9 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using BookListRazor.Model;
 
+
+//This is my Exercise
+
 namespace BookListRazor {
     public class Startup {
         public Startup(IConfiguration configuration) {
