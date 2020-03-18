@@ -13,7 +13,7 @@ using BookListRazor.Model;
 
 
 //This is my Exercise
-
+//new line
 namespace BookListRazor {
     public class Startup {
         public Startup(IConfiguration configuration) {
